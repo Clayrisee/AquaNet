@@ -8,5 +8,7 @@ mkdir model
 cd model
 gdown 1JWxq3tXz5ZFUwRUAG-cwwRUtHVz9uHw7
 
+cd ..
+
 mkdir uploads
 mkdir results
