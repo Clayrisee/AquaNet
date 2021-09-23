@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 mkdir model
 cd model
-gdown --id 1JWxq3tXz5ZFUwRUAG-cwwRUtHVz9uHw7
+gdown --id 1-0ayk7j51epkXLfDeAGXyrgQ3mMeLMBP
 
 cd ..
 
